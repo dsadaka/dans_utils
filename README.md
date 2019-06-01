@@ -2,11 +2,13 @@ The class DansUtils contains a single method to flatten an array with an underte
 
 ## Setup:
 
-Create a new test directory
-Create the two subdirectories: lib and spec
-Place the above files in their respective directories (see comment on first line of each file)
-Place the Gemfile the top level directory
-bundle install --path .bundle
+You may clone this repo and skip to test 5 if you so desire.
+
+1. Create a new test directory
+2. Create the two subdirectories: lib and spec
+3. Place the above files in their respective directories (see comment on first line of each file)
+4. Place the Gemfile the top level directory
+5. bundle install --path .bundle
 
 ## Test your installation:  
 
